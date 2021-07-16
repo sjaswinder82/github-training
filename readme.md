@@ -41,3 +41,24 @@ Checkout to a new branch
 ```
 git checkout -b <new_branch_name>
 ```
+
+list branch on local
+```
+git branch <branch>
+```
+
+pull new code in a branch from origin 
+```
+git pull origin <branch>
+```
+
+reset all changes from previous commit
+```
+git reset --hard
+```
+
+
+check differenc from the previoud commit
+```
+git diff
+```
