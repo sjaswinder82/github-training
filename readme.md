@@ -29,5 +29,5 @@ git config user.email
 
 push your changes to Github
 ```
-git push -u origin branch
+git push -u origin <branch>
 ```
