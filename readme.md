@@ -31,3 +31,13 @@ push your changes to Github
 ```
 git push -u origin <branch>
 ```
+
+Checkout to existing branch
+```
+git checkout <branch>
+```
+
+Checkout to a new branch
+```
+git checkout -b <new_branch_name>
+```
