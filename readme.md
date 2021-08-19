@@ -62,3 +62,8 @@ check differenc from the previoud commit
 ```
 git diff
 ```
+
+delete branch from local
+```
+git branch -D <branch>
+```
