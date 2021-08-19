@@ -67,3 +67,8 @@ TODO:: More feature
 ```
 rebase
 ```
+
+delete branch from local
+```
+git branch -D <branch>
+```
