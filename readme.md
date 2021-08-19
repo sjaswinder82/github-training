@@ -63,6 +63,11 @@ check differenc from the previoud commit
 git diff
 ```
 
+TODO:: More feature
+```
+rebase
+```
+
 delete branch from local
 ```
 git branch -D <branch>
